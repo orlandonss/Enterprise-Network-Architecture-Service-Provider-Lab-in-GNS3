@@ -44,8 +44,3 @@ This repository is organized to provide clear documentation, from initial techni
 * **`configurarion.md`**
   The central script repository containing all Cisco IOS CLI configuration models and templates. It includes the step-by-step commands applied for global settings, routing protocols, VLANs, MPLS, and WAN encapsulations across the various switches and routers.
 
-* **`RELATÓRIO_TL.pdf`**
-  The final technical report detailing the logical topology, subnetting strategies, implemented protocols, and the troubleshooting processes used to resolve complex MTU mismatches, routing loops, and route redistribution issues encountered during the lab deployment.
-
-* **`enunciado_tl.pdf`**
-  The original technical requirements and scope document outlining the constraints, topology rules, and primary objectives designed for this lab scenario.
