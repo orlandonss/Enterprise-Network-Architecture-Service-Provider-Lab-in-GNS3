@@ -4,7 +4,7 @@
  as u can see all the commands are simillar, just
  the vlans and the ip address changes!!!
 
- btw i forgot to do some commands, so if u need help call or text me!!!
+ These are some examples of commands applied in the project context.
 
 # TOPOLOGIA DE TECNOLOGIAS DE LIGACAO
 
