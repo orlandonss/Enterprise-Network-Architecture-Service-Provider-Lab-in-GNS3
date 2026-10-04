@@ -42,5 +42,5 @@ This repository is organized to provide clear documentation, from initial techni
   The comprehensive IPv4 Variable Length Subnet Mask (VLSM) addressing master file. This spreadsheet meticulously maps out the calculated public IP blocks (194.65.x.x) for campus LANs and private /30 blocks (192.168.0.x / 10.0.0.x) for all point-to-point WAN links. It serves as the definitive addressing guide followed during the lab configuration.
 
 * **`configurarion.md`**
-  The central script repository containing all Cisco IOS CLI configuration models and templates. It includes the step-by-step commands applied for global settings, routing protocols, VLANs, MPLS, and WAN encapsulations across the various switches and routers.
+  The central script repository containing all Cisco IOS CLI configuration templates. It includes some step-by-step commands applied for global settings, routing protocols, VLANs, MPLS, and WAN encapsulations across the various switches and routers.
 
